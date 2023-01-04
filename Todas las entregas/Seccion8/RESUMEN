@@ -1,0 +1,37 @@
+SECCION 8 ...
+
+=c Primero que nada =c extrañare >=C la clase de FOrtran. >=D pero no programar ... :E pues planeo seguir haciendolo C= 
+
+En esta ultima seccion aprendimos a usar Funciones y Subrutinas 
+La diferencia entre estas es que las subrutinas >=c pueden arrogar más de un resultado, o inclusive solo son procedimientos
+no necesariamente tienen que hacer calculos :E ... >=D . 
+Las funciones lo que tienen de interesante >=c es que D= puedes crear una que no tenga argumentos =o!!! :E eso me agrado. 
+Hablando de argumentos :E Estos son los valores >=c que se le dan para que los trabaje... ya dentro de los programas :E 
+explico un poco el "INTENT(IN) " y "INTETN(OUT)" c: ... 
+Como llevo mencionando en los ultimos resumenes >=c :E cada vez me parecían más aptos los problemas dejados =o!!! n_n y nos 
+permiten dar una probadita de todo... 
+En el programa 5 ( los primeros eran subrutinas para este) ... se usan subrutinas :E y una subrutina dentro de otra =o >=C 
+más me marcaba error si queria usar esa subrutina antes en mi programa y despues dentro de la subrutina >=c... pero bueno no fue 
+nada grave n_n solo la quite y ya n_n igual adentro de la otra se hacia :E eso 
+Luego tambien tratamos :E subrutinas con fuciones como argumentos en los programas de derivadas, biseccion e integrales n_n
+=o!!! muy muy importante aunque no se use para nada la variable "nombre_funcion" en el programa piloto se declara >=c con un 
+"EXTERNAL"... si no =c no era posible su uso >=B
+>=C Algo que me molesto fue el tiempo que inverti en el programa del producto vectorial >=c que pedia cacular este por medio 
+de una funcion =c y no me fue posible >=c, apesar de que todo estaba en orden >=c...era necesario usar unas cositas que no vimos 
+y que no era adecuado ver aun >=c por los tiempos... :E asi que >=D recurrimos a las subrutinas... u_U al menos por mi parte
+! Varios programas >=c usaban las funciones intrisecas =o sen y cos >=c y no tome consideraiones de convertir a radianes :E
+salvo en un solo programa ... :E que lo hice de las dos maneras.. =o!!!
+Hay tambien en de la integral definida ...resulto de dos formas :E 
+... No puedo dejar pasar y recordar :E que el RANDOM_NUMBER :E me gusto <3 mucho!!! >=c primero me molesto que fuera un intervalo 
+de [0,1]... más al usarlo me fui dando cuenta de lo conveniente que esto resulto ... >=C me gusto graficar de nuevo n_n
+:E creo que pude dar mucho más en esta y en todas las secciones >=c juuum! pero siempre hay cositas que se empalman >=c...
+En fin fue mi seccion favorita :E me siento bien manejando fuciones y subrutinas D= al inicio el programa 5 fue un terror ... 
+más era solo porque D= escribia mal "SUBROUTINE " jajaja n_n ... pero me torture por horas D= ....
+>=D un BONUS fue ver el KIND :E y como usar SELECT_INT_KIND ... n_n aunque creo que no lo implemente de manera adecuada 
+:E fue de mis materias favoritas... n_n me gustaba programar pero no sabia que tanto n_n...espero poder aprender cositas por mi 
+cuenta c= y no dejar de usarlo ... " lo que bien se aprende no se olvida" y aunque ahora programe muy "vikingamente" (asi muy 
+salvajemente,, sin formalismos) :E pulire eso con el tiempo 
+LA MEJOR SECCION u_u y pensar que si hubiera habido una seccion 9 -.- seguro sería mejor que esa n_n siempre se superaban unas
+a otras...
+
+

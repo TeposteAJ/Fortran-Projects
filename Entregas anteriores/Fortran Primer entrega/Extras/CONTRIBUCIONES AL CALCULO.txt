@@ -1,0 +1,30 @@
+CONTRIBUCIONES AL CALCULO NUMERICO
+
+*Edmond Nicolas Laguerre (9 de abril de 1834, Bar-le-Duc - 14 de agosto de 1886), fue un matemático francés, 
+conocido principalmente por la introducción de los polinomios que llevan su nombre. El método de Laguerre es 
+un método numérico de uso exclusivo para resolver ecuaciones algebraicas polinomiales (no se puede usar para 
+otro tipo de ecuaciones) que nos permite calcular las raíces reales y complejas de cualquier ecuación 
+algebraica de grado n realizando iteraciones. Posee orden de convergencia cúbica para raíces de multiplicidad
+unitaria, pero puede tener ordenes de convergencia menor si la raíz a calcular es de multiplicidad dos o mayor.
+
+*Michael  A. Jenkins y Joseph Traub,publicaron en 1970,  el algoritmo de Jenkins-Traub por ceros de polinomios
+es un método rápido iterativo convergente a nivel mundial. Es "prácticamente un estándar en negro-box polinomio
+de raíces buscadores".  El algoritmo de Jenkins-Traub ha estimulado la investigación considerable en la teoría 
+y software para los métodos de este tipo.
+
+*Las ecuaciones diferenciales de Bernoulli son ecuaciones diferenciales ordinarias de primer orden, formuladas 
+por Jakob Bernoulli y resueltas por su hermano Johann, que se caracterizan por ser funciones continuas en un 
+intervalo  
+
+
+*Alston Scott Householder (n. Rockford, Illinois, Estados Unidos; 5 de mayo de 1904 - f. Malibu, California, 
+Estados Unidos; 4 de julio de 1993) fue un matemático estadounidense.Estableció como tratado matemático que cada
+problema emprende la unificación, la generalidad de método y, finalmente, la simplicidad del resultado. Ya en
+1950 en el ápice de su trabajo clasificó los algoritmos para solucionar ecuaciones lineales, mostrando que en 
+muchos casos esencialmente el mismo algoritmo había sido presentado en gran variedad, pero en diferentes 
+cálculos numéricos de las mismas matrices.
+
+*En análisis numérico , método de Bairstow es un eficaz algoritmo para encontrar las raíces de un verdadero
+ polinomio de grado arbitrario. El algoritmo apareció por primera vez en el apéndice del libro de 1920 
+"Aerodinámica Aplicada", de Leonard Bairstow . El algoritmo encuentra las raíces de complejos conjugados pares 
+utilizando sólo aritmética real.

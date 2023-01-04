@@ -1,0 +1,58 @@
+SECCION 7: 
+Esta seccion me resulto primero  que nada abrumante...D= .. n_n pues cuando el maestro dio los ejercicios 
+aun no terminaba de corregir mis programas de la seccion anterior ... n_n y más que otra cosa era una desesperacion =s
+por comenzar a trabajar con arreglos <3 de más de una dimension n_n ... =B asi que deje los otros para despues u_u y empeze 
+esta >=DDD ... :E sobre todo el comentario que decia algo como que -sabiendo arreglos, ya podriamos decir que sabemos
+programar" fue motivador n_n !!! al menos para mí... 
+
+u_u solo trabajamos arreglos en dos dimensiones >=D pero no se necesita más, ya con esto nos vamos creando una idea de como 
+es que funcionan los arreglos >=D ... primero me dio un poco de miedo>=c, enfrentarme a esta seccion por lo mismo que 
+tube más problemitas de los acostumbrados con la seccion aterior, pero >=v no fue asi <3 :E  ...n_n fue mucho más sencillo
+n_n de lo malo que imagino mi mente u.u 
+
+Al igual que la otra seccion n_n conidere mu adecuados cada uno de los programas, permitiendonos experimentar con muchas
+de las cosas que se nos pueden enfrentar =B ... n_n no se si apenas lo voy notando u_u pero seguro las secciones anteiores
+tenian tambien este fin , o quizas=o!! pueda ser que no habia mucho que variar en los problemas n_n .. =B pero encuentro 
+adecuado que en un minimo de programas n_n apliquemos la mayor cantidad de cosas...
+
+Despues de tantos Do, :E pasamos a algo más "limpio" para los arreglos >=D "FORALL" , aunque no lo he aplicado aun en ninguno
+salvo una nota en uno de los programas, n_n parece más sencillo que el Do... eso siempre lo he creido u_u primero nos complicamos
+haciendo las cosas de una manera muy rudimentaria ... y despues vemos algo nuevo que resulta mas limpio , claro y facil n_n ... 
+
+Hablando ya de los programas en sí,el primero trata de ordenar un conjunto de datos :E , para poder determinar la mediana... y 
+tambien calcula la media aritmetrica (pero eso ya no es novedad>=D) ... :E lo mejor fue que ya nos permitian usar la funciones 
+intrinsecas n_n que tiene FORTRAN , como lo es MAXVAL, en mi caso use MINVAL, que nos devuelve la posicion en la que se encuentra
+el minimo... >=C tarde como dos semanas en usarla bien >=c porque no sabia que tenias que guardar el resultado en un arreglo u.u
+El Segundo programa n_n esta interesante, pues ya comenzamos a ver como operar la informacion de los arreglos,en si lo vi como 
+aprender una manera de aceder a la informacion renglon por renglon o columna por columna n_n, la operacion que se realice con esta 
+es lo de menos n_n... y saber como imprimir estos resultados..n_n en este caso era necesario sumar todos los elementos de la columna
+o renglon y dividirlos entre el numero de estos... =O!! casi lo olvido n_n los programas en su mayoria requieren de un documento
+donde este guardada la matriz y en la que los primeros dos documentos n_n este guardado el tamaño de los renglones y columnas n_n 
+
+El tercer programa n_n multiplicaba matrices , claro esta si era posible hacerlo... >=c la dificultad en esto solo radico en saber que
+elemento multiplicar por cada cual n_n, es decir u_u era inminente saber y manejar muy bien la operacion en la vida real =o!!!, para
+comprobar n_n tenemos el recurso "MATMUL" n_n que hace exactamente lo mismo
+
+EL cuarto me gusto mucho, pues nunca antes habia declarado operadores logicos, y en este vi la oportunidad >=D, lo que me resulto
+muy apropiado n_n ... este trataba de encontrar el maximo relativo... n_n para esto fue necesario identificar a manera general 
+a todos los elementos que rodean a cada uno, fue el programa que menos tiempo me tomo n_n y nos prepara un poco para el polemico -.-
+programa final.... 
+El programa final tube problemas en cuestion de entender exactamente que es lo que pedia, recurri al maestro Cobos, quien me asesoro 
+en mi duda, n_n proponiendome que promediara los valores de los nodos variantes... a todo esto el programa calcula las temperaturas 
+conforme van cambiando en cada iteracion hasta tener una diferencia entre la anterior y la nueva que sean no significante n_n 
+al final de todas las turbulencias y discusiones con mis compañeros que me ocasiono, termino por agradarme.. =B 
+
+En fin en esta seccion vimos muchas cosas aunque no todas las mencione, porque no todas las usamos n_n
+las funciones intrinsecas de FORTRAN, inclusive tuvimos que buscar auxiliares para determinar si un numero era par n_n...
+Los FORALL, y otros equivalentes... que son como los DO y los IF para el caso de las matrices ... tambien se me olvido mencionar 
+algo importantisimo , ya conocemos como declarar matrices sin definir >=D su valor desde el inicio n_n .... 
+"ALLOCATABLE" =B fue un sueño hecho realidad... n_n en casi todos los programas asi las usamos, puesto que era necesario primero 
+leer el valor del tamaño que tendra>=c... algo útil es "RESHAPE" para lo mismo de acomodar las matrices que leemos en lista
+de un archivo n_n... hay muchas cositas que olvido mencionar n_n , más solo espero no olvide aplicarlas n_n
+como es evidente aun trabajamos con lo aprendido en las secciones anteriores, para crear un conjunto de saberes mas concreto n_n
+desde imprimir =B en pantalla, usar DO, operaciones, IF, leer archivos, arreglos n_n ...sabemos ya un poquito de lo que tenemos 
+que saber :E y espero seguir aprendiendo más.
+
+
+
+

@@ -1,0 +1,10 @@
+SECCION 2:
+Como mencionaba al final del resumen de la seccion 1 , las clases fueron todas en una para mí, 
+En esta segunda parte, ya entramos en un programa más complicadito que el del "hola". Se trato
+de un programa para convertir grados Farhenheit a Kelvin... para esto ya usamos los operadores 
+matematicos y declaramos variables numericas reales... hubo un proceso y un resultado para imprimir...
+
+Otro programa fue uno que calcula la edad aproximada de algo, pormedio del carbono 14... este 
+problema tenia una constante lambda y la declaramos como "REAL,PARAMETER:: " asi le asignamos 
+un valor fijo que no se modifica... y esto fue todo lo diferente al otro.
+

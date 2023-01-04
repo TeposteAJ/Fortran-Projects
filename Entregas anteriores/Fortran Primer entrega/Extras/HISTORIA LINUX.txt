@@ -1,0 +1,33 @@
+HSITORIA DE LINUX-UBUNTU
+
+       Linux es sin duda la fuente más popular sistema operativo abierto el, su historia es bastante corta 
+teniendo en cuenta la cronología de los sistemas operativos. La falta de un sistema operativo significa
+que sólo una aplicación (y un usuario) podría utilizar el dispositivo de grandes y costosos a la vez. 
+Los primeros sistemas operativos fueron desarrollados en la década de 1950 para proporcionar una experien-
+cia de desarrollo más simple. 
+   En la década de 1960, Massachusetts Institute of Technology (MIT) y una serie de empresas desarrollaron 
+un sistema operativo experimental llamado Multics (o multiplexados Servicio de Información y Computación)
+para el GE-645. Uno de los desarrolladores de este sistema operativo, AT & T, se retiró de Multics y desa-
+rrollado su propio sistema operativo en 1970 unics llamado. Junto con este sistema operativo era el len-
+guaje C, para lo cual se desarrolló C y luego vuelto a escribir para hacer que el sistema operativo por-
+tátil de desarrollo. 
+    Veinte años más tarde, Andrew Tanenbaum creó una versión microkernel de UNIX ®, llamado MINIX (por mínima
+UNIX), que corría en pequeños ordenadores personales. Este código abierto del sistema operativo inspirado
+en "el desarrollo inicial de Linux Linus Torvalds en la década de 1990 
+Linux evolucionó rápidamente de una persona solo proyecto a una amplia el desarrollo de proyectos en el 
+mundo con miles de desarrolladores. Una de las decisiones más importantes de Linux fue la aprobación de
+la GNU General Public License (GPL). Bajo la GPL, el núcleo Linux fue protegido contra la explotación 
+comercial, y se contó también con la del espacio de usuario el desarrollo del proyecto GNU (de Richard 
+Stallman, cuya fuente hace que la de núcleo de Linux). Esto permitió a aplicaciones útiles, como la cole-
+cción de compiladores de GNU (GCC) y soporte de shell diferentes. 
+Con el tiempo, el núcleo de Linux se ha convertido en eficientes en términos de memoria y CPU, así como 
+una gran estabilidad. Pero el aspecto más interesante de Linux, dado su tamaño y complejidad, es su por-
+tabilidad. Linux puede ser compilado para correr en un gran número de procesadores y plataformas con 
+diferentes limitaciones arquitectónicas y necesidades. 
+    El 8 de julio de 2004, Mark Shuttleworth y la empresa Canonical Ltd. anunciaron la creación de la distri-
+bución Ubuntu. Ésta tuvo una financiación inicial de 10 millones de dólares (US$). El proyecto nació por
+iniciativa de algunos programadores de los proyectos Debian, Gnome porque se encontraban decepcionados
+con la manera de operar del proyecto Debian, la distribución Linux sin ánimo de lucro más popular del
+mundo.
+  De acuerdo con sus fundadores, Debian era un proyecto demasiado burocrático donde no existían responsabilidades definidas y donde cualquier propuesta interesante se ahogaba en un mar de discusiones. Asimismo, Debian no ponía énfasis en estabilizar el desarrollo de sus versiones de prueba y sólo proporcionaba auditorías de seguridad a su versión estable, la cual era utilizada sólo por una minoría debido a la poca o nula vigencia que poseía en términos de la tecnología Linux actual. 
+Cada lanzamiento de Ubuntu posee un nombre en clave, como también un número de versión basado en el año y el mes del lanzamiento. Cada versión de Ubuntu es lanzada con seis meses de diferencia con respecto al último lanzamiento. La versión reciente es la 7.04, cuyo nombre en clave es "Feisty Fawn”.

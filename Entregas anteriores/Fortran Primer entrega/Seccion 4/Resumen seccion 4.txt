@@ -1,0 +1,11 @@
+SECCION 4:
+Esta ultima seccion fue la más entretenida, vimos bastantes cosas nuevas, por conveniencia nos 
+enseñaron los modelos de ALgoritmos, aunque en lo personal pienso que debimos verlo antes... 
+es uno de mis temas favoritos, despues de ver los diagramas de flujo... comenzamos con el 
+condicional "if" ... el caso sencillo y luego el que puede tener if dentro de if ... hay que recordar 
+cerrarlos =) y podemos ponerles nombres esto lo facilitara ... para esto tambien nos dedicamos 
+a ver los operadores logicos, le dimos una entrada pequeña, >=, ==, <= , y tambien comentamos sobre
+las expresiones logicas de variables logicas, .TRUE. .FALSE. 
+
+De lso programas lo mejor fue poder corregir el programa de la ecuacion de segundo grado, los demas
+estubieron sencillos, y debo admitir que cada vez son mejores.

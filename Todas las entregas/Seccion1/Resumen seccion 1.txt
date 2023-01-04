@@ -1,0 +1,11 @@
+SECCION 1:
+Se hablo de Fortran, no tube la dicha de asistir a las clases pero se vieron cosas básicas
+como los comandos elementales, READ, PRINT, WRITE... y para declarar las variables y no usar
+las que tiene Fortran, primero poner IMPLICIT NONE..y segun el tipo despues si seran reales (REAL)
+, o palabras ( CHARACTER) en estas ultimas puden limitarse el numero de letras usando (len= *).
+Algo importante el como empezar y terminar un programa "PROGRAM abc" & "END PROGRAM abc"...
+Fue más o menos de conocer el sistema operativo, familiarizarse y comenzar a usar la terminal, sus 
+comandos , creear la cuenta en dropbox ...
+
+Del programa de "hola" puedo agregar que me parecio muy divertido =), y fue sumamente sencillo de 
+realizar... aunque todo lo hice junto con la seccion dos y tres ... ya que falte a clases...

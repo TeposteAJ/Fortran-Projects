@@ -1,0 +1,40 @@
+SECCION 6:
+Aun recuerdo los resumenes anteriores, donde mencionaba que las cosas se ponian cada día más interesantes... y es verdad
+esto continua siendo asi cada vez es más interesante, y aunque suene prematuro decir que ya podemos hacer muchas cosas en 
+Fortran, asi lo siento, quizas aun no de la manera más limpia, pero si tenemos ya con que medio defendernos, son inminentes
+las barreras que hemos logrado pasar... n_n y lo que nos queda por aprender, pues aun nos quedan secciones que aprender...
+
+En conocimientos, para la seccion 6 fue dedicada muy enfocadamente a los arreglos, en una sola dimensión. Considero que con 
+los programas que nos toco hacer, se abarcaron casi todos lo punto si no es que todos :E ... comenzando con algo basico 
+como lo es encontrar el maximo c=... problemilla que se volvio más complejo al tener que usar este criterio para reacomodar 
+la lista en orden, u_u fue el programa que más tiempo me tomo realizar... con el algoritmo propuesto por el maestro Cobos, sin 
+embargo al final decidi cambiar mi programa y usar otro algoritmo mas claro y sencillo, desde mi opinion personal, propuesto por
+uno de mis compañeros Andrés Pellat...no se si él lo encontro o se le ocurrio sin antes verlo,  pero me gusto mucho su idea y la 
+desarrolle...Es bueno habernos puesto este pequeño reto, pues cuantos archivos son más utiles estando ordenados.
+
+Trabajamos tambien con vectores representados por matrices de una dimension, y segun el espacio vectorial al que pertenescan se 
+define el tamaño; usamos lo mas normales, en R2 y en R3... En el tercer programa se convierten vectores, en las dos representaciones
+polares o rectangulares n_n ... de una u otra forma.Lo interesante de esto fue usar la funcion ATAN2, no la mencionare mucho, puesto 
+que esta incluida en los comentarios del mismo programa:B. Lo que siguio fue un programa de vectores en R3 , que calcula el producto 
+punto, para ello lo realice de dos maneras >=c, :E no recuerdo porque pero lo tengo de dos maneras n_n .. en  una de ellas se una 
+las operaciones entre matrices, Fortran puede hacer eso :E si ambas matrices son del mismo tamaño ( =O!! uuh!), tambien >=c el resultado
+tiene que ser almacenado en una arreglo de igual tamaño. Lo que se logra con esto es aplicar una operacion elemento con elemento, se 
+puede multiplicar, sumar, n_n ese tipo de cosas basica... Por ejemplo, en una matriz de igual tamaño aplicara la operacion ,de la primera
+a la segunda, segun la posición, c= si esta en la posicion 1, operara a ambos elementos en esta posicion , y asi n_n con todos... sin 
+necesitad de hacer un DO, resulta util para sumar matrices n_n... pero no tanto en el producto punto ya que despues hay que implementar una 
+suma para todos los elementos de la matriz donde se guardaron los resultados >=C... es decir sale más largo el proceso >=CCC ... pero 
+queria aplicarlo n_n, ya resultara util este procedimiento en otras situaciones. 
+Siguiendo con lo mismo ahora se operan los vectores en R3, para calcular su produto cruz(que solo tiene maestria y no en ciencias>=C) n_n, aqui si fue necesario una matriz del 
+tamaño 3, para alojar el vector resultante. Pienso que seria de mayor utilidad juntar todos estos programas en uno solo que opere todas
+las posibles operciones en ambos espacios, R2 y R3...n_n !! espero tener tiempo para hacerlo n_n ... 
+
+Dejando de lado los vectores, este ultimo programa trata sobre operaciones, muy muy elementales con conjuntos de datos :E ... Union,
+e interseccion , mismas que pueden extrapolarse a operaciones donde se combinen ambas.. :E o se resten c= ... n_n ... DEbo confesar
+que tambien este programa fue un poco complejo... primero se veia fácil, pero despues me dí cuenta de la dificultad que impicaba, que algunos
+datos se repitieran D=... y me di por vencida n_n "hay ocasiones en que coviene más comenzar un programa desde cero, que corregir el que 
+tienes mal u_u" ... un nuevo logaritmo.. de una logica n_n mejor... tome la idea tambien de lo que se hizo en el programa de ordenar n_n...
+
+Fue agradable trabajar en esta sección, es inquietante saber que podemos continuar haciendo, ya no con arreglos de una sola dimension
+si no de más n_n ... En resumen en esta seccion se trabajo con arreglos en una dimension, y operaciones basicas como lo son las de los vectores 
+y conjuntos, reitero que desde mi perspectiva creo que con los pocos programas >=c fue suficiente para explorar poquito de todo... 
+muy acertadas las elecciones :E ... Fin

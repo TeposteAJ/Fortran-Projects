@@ -1,0 +1,33 @@
+RESUMEN SECCION 5:
+
+Apartir de esta sección las cosas ya se ponen mucho más interesantes, podemos elaborar programas un poquito
+mas complejos >=) ... 
+
+Los conocimientos que comenzamos a explorar son los de usar un archivo en nuestro programa. Familiarizarnos con 
+los tipos de acciones a realizar: leer y escribir. Asi como los estados de los archivos que pueden presentar:
+ser nuevos, ya existentes, temporal , para guardar informacion (NEW,OLD,UNKNOW,SCRATCH)... algo relevante es que 
+para el archivo es necesario asignar un numero real y este servira para hacer referencia a él en el resto del 
+programa..además de una variable "IOSTAT" que nos sera de ayuda al momento de leer archivos, si presentan errores
+ en sus datos.
+
+Todo esto lo aplicamos a la los programas, un primero solo lee un archivo, creo que es el que me causo mayores
+contratiempos, pero una vez aprendido fue fácil aplicarlo a los otros programas donde no solo se leeia la informacion
+, sino que tambien se operaba con ella... calcular las medias resulta más practico , si en ves de estar introducciendo
+los datos de uno en uno, se almacen en archivo y se leen.
+
+Los programas fueron sencillos.
+Lo que me causo al menos en mi caso, algo de dudas fue la parte que no se vio en clase, sobre los formatos, que son 
+necesarios mencionarlos sí se habla de crear archivos, puesto que nos permitira darle un acomodo presentable a 
+nuestros resultados y que sean asi faciles de manejar. Y tambien debido a la extensión no se muestran bien y con ayuda 
+de los FORMAT se puede corregir...
+
+Me agrado saber a fin que significan los (*,*), controlan la entrada y salida de datos, fue la primera vez que se escribe 
+algo diferente en este aspecto.
+
+Despues aun no concluido los trabajos de esta sección comenzamos a ver matrices, y las aplicamos a los mismo programas, en 
+la mayoria resulto ser mas facil de manejar cuando se usan arreglos... y los agregamos como extras para esta seccion.
+Ya en la siguiente hablare de los arreglos, que ya estoy manajeandolos y familiarizada con ellos.
+
+
+
+

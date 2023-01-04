@@ -1,0 +1,35 @@
+HISTORIA FORTRAN
+
+  El nacimiento de este lenguaje se debe principalmente a John Backus en unión de Richard Goldberg, Sheldon F. 
+Best, Harlan Herrick, Peter Sheridan, Roy Nutt, Robert Nelson, Irving Ziller, Lois Haibt y David Sayre, todos 
+ellos de la nómina de IBM, quienes en 1954 presentan el informe titulado “Preliminary Report, Specifications 
+for the IBM Mathematical FORmula TRANslating System, FORTRAN.” Debido al avance de la investigación el equipo
+de Backus anuncia que en 6 meses IBM tendrá el compilador FORTRAN, este hecho tardó 2 años, es en 1956 cuando
+Backus y equipo presentan a la directiva de IBM una alternativa al Lenguaje ensamblador para la computadora 
+IBM 704.
+   Su nombre proviene del ingles de: FORmula TRANslator. Es un lenguaje de programación para el desarrollo de
+aplicaciones matemáticas y científicas, fue el primer lenguaje de programación de alto nivel. Estos lenguajes 
+de alto nivel tienen entre otras las ventajas que pueden utilizarse en cualquier computadora y son más afines 
+al lenguaje humano.
+   A mediados de 1954 fue terminada una especificación del borrador para The IBM Mathematical Formula Transla-
+ting System. El primer manual para el FORTRAN apareció en octubre de 1956, porque los clientes eran reacios a 
+usar un lenguaje de programación de alto nivel a menos que su compilador pudiera generar código cuyo desempeño
+fuera comparable al de un código hecho a mano en lenguaje ensamblador.
+   Mientras que la comunidad era escéptica en que este nuevo método pudiera posiblemente superar la codificación
+a mano, éste redujo por un factor de 20 al número de sentencias de programación necesarias para operar una má-
+quina, y rápidamente ganó aceptación. El lenguaje fue ampliamente adoptado por los científicos para escribir 
+programas numéricamente intensivos, que incentivó a los escritores de compiladores a producir compiladores que 
+pudieran generar un código más rápido y más eficiente. La inclusión en el lenguaje de un tipo de datos y de la 
+aritmética de números complejos amplió la gama de aplicaciones para las cuales el lenguaje se adaptaba especial-
+mente e hizo al FORTRAN especialmente adecuado para aplicaciones técnicas tales como la ingeniería eléctrica.
+    Hacia 1960, las versiones de FORTRAN estaban disponibles para los computadores IBM 709, 650, 1620, y 7090.
+Significativamente, la cada vez mayor popularidad del FORTRAN estimuló a fabricantes de computadores de la compe-
+tencia a proporcionar compiladores FORTRAN para sus máquinas, así que por 1963 existían más de 40 compiladores 
+FORTRAN. Por estas razones, el FORTRAN es considerado ser el primer lenguaje de programación ampliamente usado 
+soportado a través de una variedad de arquitecturas de computador.
+    El desarrollo del FORTRAN fue paralelo a la temprana evolución de la tecnología del compilador. De hecho,
+muchos avances en la teoría y el diseño de compiladores fueron motivados específicamente por la necesidad de 
+generar código eficiente para los programas en FORTRAN.
+    Algunas otras versiones subsiguientes fueron: FORTRAN IV , FORTRAN 66 , FORTRAN 77 , Fortran 90 , Fortran 95
+, Fortran 2003 , Fortran 2008 
+

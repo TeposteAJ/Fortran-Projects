@@ -1,0 +1,22 @@
+RESUMEN SECCION 4. DO.
+
+
+En esta sección, manejamos el DO condicional, esto se logra mediante un IF que al cumplirse una condicion nos lleva al "EXIT" terminar de repetir 
+el DO.Junto son esto convinamos la opcion IF,como resultado, cada vez nuestros programas van siendo mejores, y capaces de realizar más cosas, todo
+se logra poco a poquito. Los ejercicios resultado ya, mas entretenidos que todos los anteriores, fue un poco tardadito realizar el tercer problema, 
+que implicaba sumatorias, y tener que introduccir el programa para calcular el factorial, me parecio lo mejor.Lo más dificil fue mejorar el programa, pues se limita en las aproximaciones, y puede tardar haciendo el factorial.
+
+Algo que Vi novedoso fue tambien, el poder pedir muchos datos al usuario, no imaginaba que dentro del Do se podria llevar acabo este tipo de  acciones.Fueron muchas medias diferentes las calculadas, pero todo con un mismo principio, sumatorias de muchos datos ingresados, o productos de los mismos. 
+
+Los ultimos dos problemas fueron confusos, y no creo ser la única que penso eso, confusos en el hecho de que no teniamos una idea cien porciento sertera de lo que se nos pedia que hiciera el programa, además se pueden realizar todo lo que se menciona, sin necesidad de usar Do o If. Sin embargo por ser el tema en el que estamos se usaron de igual forma. El mayor y significante uso fue el de imprimir varios resultados, donde solo variaba una de las componentes, gracias a que estas aumentaban de forma periodica.
+
+Hasta aquí fue la primera parte de esta larga sección, previo a esta olvidaba mencionar se resolvieron los dos primeros problemas de manera grupal, con la explicacion del profesor Cobos :E.
+
+La segunda parte, en clase ya se habia comentado lo que era un Do iterativo, y se mencionaba como funcionaba, asi mismo se dio un ejemplo de esto en clase y en laboratorio lo apliamos para los programas que ya se tenian.Este Do nos permite usar una serie de condicines que ya vienen intrinsecamente
+lo único que se requiere es introducir separados con comas, despues del DO, un inicio, un fin y un incremento( este ultimo es opcional, si no se escribe uno por defecto se incrementa en uno cada vez)... asi nos ahora un poco de trabajo ... una de las condiciones importantes de este es que tienen que ser enteros todos, para que pueda funcionar. Esto se puede arreglar en el caso de las orbitas requeriamos incrementar .25 cada vez, la solución fue dividir en una operacion extra, ese 25 entre 100 y ya se acabo el problema ; esto fue considerado para el inicio y el fin tambien.
+
+En resumen eso fue lo que vimos en esta ultima seccion que se convirtio en dos, me entusiasma cada día =B saber más de programación, hacer más cosas, mejores programas, con más funciones...
+
+Use mucho el DO While, porque esa era en inicio la instrucion en el documento, más despues de la seccion  teorica en el salon , D=!! resulto ser el otro DO, y asi lo deje ... en algunos casos
+
+

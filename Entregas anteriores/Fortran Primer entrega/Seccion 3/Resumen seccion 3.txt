@@ -1,0 +1,11 @@
+SECCION 3:
+La seccion esta estuvo muy sencilla, e interesante, fueron cinco problemas para resolver, lo novedoso
+de esto fue que calculamos algun resultado, que despues introduciomos a otras formulas donde se 
+requeria ese valor. 
+Otra variacion que trata casi de lo mismo es que aprendimos que si una formula es demasiado compleja
+o larga para evitar poner muchos parentesis y asi cometer errores; podemos hacerla por pedacitos y 
+guardarlo en alguna variable , y esta se sustituira en esa parte de la formula, fue muy útil en el 
+caso de la ecuacion de segundo grado... Este programa fue curioso ya que falla cuando el discriminante
+es negativo, pues "no existen raices negativas" al menos no en los reales =/ ...
+Lo que destacare ademas de lo anterior es que nos enseñaron los tipos de variables reales, complejas
+y nos dejaron de tarea volver a estudiar las expresiones aritmeticas... 
